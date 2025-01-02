@@ -1,6 +1,6 @@
 {
   "name": "@ralucap/util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "utilities",
   "main": "src/index.js",
   "scripts": {
