@@ -1,2 +1,3 @@
 # util
-JS utilitoes
+
+JS utilities
