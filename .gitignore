@@ -1,0 +1,6 @@
+.npmrc
+
+node_modules
+
+# unit test repirts
+mochawesome-report
